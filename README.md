@@ -1,2 +1,3 @@
-# test---new-product---build3-df26ee6f
-Created by Blitzy
+# Welcome to Blitzy
+
+No dependencies. Requires Node.js. Run `node index.js` to print the line.
